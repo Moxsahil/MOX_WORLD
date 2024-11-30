@@ -49,7 +49,7 @@ const Contact = () => {
           rel="noopener noreferrer"
           className="mt-10"
           >
-          <Button title="contact us" containerClass="mt-10 px-8 py-4 bg-blue-600 text-white font-semibold cursor-pointer hover:bg-orange-700 hover:scale-110 transition-all duration-300 ease-in-out" />
+          <Button title="contact us" containerClass="mt-10 px-8 py-4 bg-white text-black font-semibold cursor-pointer hover:bg-blue-400 hover:scale-110 transition-all duration-300 ease-in-out" />
           </a>
         </div>
       </div>
